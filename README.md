@@ -1,6 +1,6 @@
 ### Hello and welcome - 😎
 
-<img width='%' height='auto' alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img width='50%' height='auto' alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 
 <!--
