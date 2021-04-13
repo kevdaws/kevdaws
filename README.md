@@ -1,7 +1,8 @@
-### Hello and welcome - 😎
+### <h1 align='center'>hello and welcome</h1>
 
-<img width='50%' height='auto' alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
+<div>
+<img margin='auto' alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<div/>
 
 <!--
 **kevdaws/kevdaws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
