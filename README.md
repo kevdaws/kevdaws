@@ -1,5 +1,5 @@
-### Hello 👋
-- 🌱 I’m currently learning web development.
+### Hello 😎
+
 <!--
 **kevdaws/kevdaws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
